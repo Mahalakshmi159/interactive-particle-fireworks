@@ -1,0 +1,22 @@
+.title {
+  position: absolute;
+  top: 20px;
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  color: white;
+  text-shadow: 0 0 10px #ff00ff, 0 0 20px #00ffff;
+  font-family: "Poppins", sans-serif;
+  letter-spacing: 2px;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+  background: radial-gradient(circle at center, #000010, #000000 80%);
+}
+
+canvas {
+  display: block;
+}
+
